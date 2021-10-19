@@ -15,11 +15,11 @@
         <!-- Favicon -->
         <link rel="icon" href="./img/favicon.png">
         <!--css links-->
-        <link rel="stylesheet" href="./vendor/css/bundle.min.css">
-        <link rel="stylesheet" href="./vendor/css/wow.css">
-        <link rel="stylesheet" href="./vendor/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="./vendor/css/line-awesome.min.css">
-        <link rel="stylesheet" href="./vendor/css/style.css">
+        <link rel="stylesheet" href="./assets/css/bundle.min.css">
+        <link rel="stylesheet" href="./assets/css/wow.css">
+        <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./assets/css/line-awesome.min.css">
+        <link rel="stylesheet" href="./assets/css/style.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     </head>
 
@@ -319,12 +319,12 @@
     <!--footer sec end-->
 
 
-    <script src="./vendor/js/bundle.min.js"></script>
-    <script src="./vendor/js/owl.carousel.min.js"></script>
-    <script src="./vendor/js/wow.min.js"></script>
-    <script src="./vendor/js/parallaxie.min.js"></script>
+    <script src="./assets/js/bundle.min.js"></script>
+    <script src="./assets/js/owl.carousel.min.js"></script>
+    <script src="./assets/js/wow.min.js"></script>
+    <script src="./assets/js/parallaxie.min.js"></script>
     <!--counter js links-->
-    <script src="./vendor/js/script.js"></script>
+    <script src="./assets/js/script.js"></script>
     </body>
 
 </html>
